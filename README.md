@@ -96,31 +96,7 @@ npm start
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome!  
-Please fork the repo, create a feature branch, and submit a pull request.
 
 ---
 
-## 💼 License
-
-[MIT](LICENSE)
-
----
-
-## 📬 Contact
-
-- **Author:** [Adarsh01302](https://github.com/Adarsh01302)
-- **Email:** adarsh01302@email.com
-
----
-
-## 🌐 Links
-
-- [Live Demo](#) _(add link if deployed)_
-- [Backend API Docs](#) _(add link if available)_
-
----
-
-Enjoy collaborating in real time with code, chat, and AI!
